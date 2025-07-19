@@ -16,8 +16,8 @@ The slides walk through the complete process of:
 
 ## 📂 Files
 
-- `presentation.pdf` — Final Beamer presentation (exported PDF)
-- `presentation.tex` — LaTeX source code
+- `main.pdf` — Final Beamer presentation (exported PDF)
+- `main.tex` — LaTeX source code
 - `images/` — Folder with screenshots and diagrams used in the slides
 
 ---
