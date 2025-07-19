@@ -31,12 +31,6 @@ To build the slides from source, you need:
 
 ---
 
-## 📷 Preview
-
-![screenshot](images/build-success.png)
-
----
-
 ## 📎 License
 
 MIT License. Feel free to reuse or adapt the slides with attribution.
