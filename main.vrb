@@ -1,0 +1,27 @@
+\frametitle{Dependency Installation}
+To build and configure coreboot, we need to install several packages:
+		
+		\begin{itemize}
+			\item Development tools and version control
+			\item Coreboot build dependencies
+			\item Optional firmware tools
+		\end{itemize}
+		
+		\vspace{0.4cm}
+		\textbf{Installation commands (Ubuntu/Debian):}
+		
+		\begin{terminalbox}
+			$ sudo apt update
+		\end{terminalbox}
+		
+		\begin{terminalbox}
+			$ sudo apt install git
+		\end{terminalbox}
+		
+		\begin{terminalbox}
+			$ sudo apt install build-essential bison flex zlib1g-dev
+		\end{terminalbox}
+		
+		\begin{terminalbox}
+			$ sudo apt install libncurses-dev iasl wget flashrom
+		\end{terminalbox}

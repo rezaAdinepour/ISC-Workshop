@@ -1,0 +1,13 @@
+\beamer@sectionintoc {1}{Dependency Installation}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Git}{3}{0}{1}
+\beamer@subsectionintoc {1}{2}{Python}{5}{0}{1}
+\beamer@sectionintoc {2}{Coreboot Installation}{6}{0}{2}
+\beamer@sectionintoc {3}{Setup Complete}{10}{0}{3}
+\beamer@sectionintoc {4}{Coreboot Build Workflow}{11}{0}{4}
+\beamer@subsectionintoc {4}{1}{Board Selection}{12}{0}{4}
+\beamer@subsectionintoc {4}{2}{Save Config \& Build}{16}{0}{4}
+\beamer@subsectionintoc {4}{3}{Fix Python Error}{17}{0}{4}
+\beamer@subsectionintoc {4}{4}{Fix EDK2 Build Error}{19}{0}{4}
+\beamer@subsectionintoc {4}{5}{Build Complete}{22}{0}{4}
+\beamer@sectionintoc {5}{Flashing Coreboot Image}{25}{0}{5}
+\beamer@sectionintoc {6}{First Boot: Verifying Coreboot Works}{27}{0}{6}
